@@ -1,5 +1,3 @@
-const express = require('express');
-const noteFile = require('./notes.js')
 let noteTitle;
 let noteText;
 let saveNoteBtn;

@@ -4,12 +4,16 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "dev":"nodemon server"
   },
+
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
-    "inquirer": "^9.1.4"
+    "inquirer": "^9.1.4",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
   }
 }
