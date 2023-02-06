@@ -1,3 +1,5 @@
+// console.log("connection test");
+
 let noteTitle;
 let noteText;
 let saveNoteBtn;
