@@ -62,7 +62,7 @@ app.post("/api/notes", (req, res) => {
 app.delete("/api/notes/:id", async (req, res) => {
   let noteId = req.params.id;
   let grabData = await getData();
-  let deleteNote = grabData.find(note => note.id === noteId );
+  let deleteNote = grabData.find(note => note.id == noteId );
   console.log(deleteNote)
   let noteIndex = grabData.indexOf(deleteNote);
   console.log(noteIndex)
