@@ -3,6 +3,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
+## Links
+
+- The repo of the note app: [Source Code](https://github.com/EshuShango/11-note-taker)
+- Here is the link of live demo app via Heroku: [Demo](https://olu-note-taker.herokuapp.com/)
+- Here is the link of live demo app via Railway: [Demo](https://11-note-taker-production.up.railway.app/)
 
 ## Description 🔎
 
